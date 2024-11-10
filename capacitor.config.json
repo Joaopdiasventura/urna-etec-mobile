@@ -1,0 +1,7 @@
+{
+    "appId": "io.ionic.starter",
+    "appName": "URNA ETEC",
+    "bundledWebRuntime": false,
+    "webDir": "www",
+    "plugins": {}
+}
